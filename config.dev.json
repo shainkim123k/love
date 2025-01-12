@@ -40,11 +40,11 @@
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [
-      "61557606879019"
+      "61557606879019","8944079939013341"
     ],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "NcsProツ",
+  "nickNameBot": "princess",
   "prefix": "/",
   "ArYanapi": "https://aryan-rest-api.onrender.com",
   "api": "",
